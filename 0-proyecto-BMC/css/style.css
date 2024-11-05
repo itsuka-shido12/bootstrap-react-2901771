@@ -28,3 +28,10 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+.card{
+  margin-top: 20px;
+  height: 40px;
+}
+.form-floating{
+  margin-top: 10px;
+}
