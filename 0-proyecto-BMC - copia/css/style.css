@@ -1,0 +1,43 @@
+/* .btn{
+    position: absolute;
+    top: 60%;
+    left: 43%;
+} */
+html,
+body {
+  height: 100%;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.card{
+  height: 50px;
+  margin-top: 30px;
+  background-color: rgb(88, 88, 88);
+}
+.Google{
+ 
+  margin-top: -13px;
+}
+.form-control{
+ 
+  margin-top: 15px;
+}
