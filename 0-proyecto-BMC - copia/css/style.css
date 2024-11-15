@@ -29,9 +29,9 @@ body {
   border-top-right-radius: 0;
 }
 .card{
-  height: 50px;
-  margin-top: 30px;
-  background-color: rgb(88, 88, 88);
+  
+  margin-top: 20px;
+  background-color: rgb(146, 140, 140);
 }
 .Google{
  
@@ -40,4 +40,30 @@ body {
 .form-control{
  
   margin-top: 15px;
+}
+.Microsoft{
+  margin-top: -13px;
+}
+.apple{
+  margin-top: -13px;
+}
+.btn{
+  margin-top: -67px;
+}
+.logonegro{
+  margin-left: 71px;
+    height: 100px;
+    width: 158px;
+}
+.card-body {
+ 
+  padding: 10px!important
+  
+
+}
+.texto{
+ font-size: 15px;
+ text-align: center;
+ 
+
 }
