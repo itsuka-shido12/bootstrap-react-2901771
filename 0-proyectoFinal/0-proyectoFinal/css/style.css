@@ -1,0 +1,15 @@
+.mt-6{
+    top: 97px;
+    height: 400px;
+    
+}
+.container{
+    margin-top: 200px;
+   
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    margin-top: 50px
+}
